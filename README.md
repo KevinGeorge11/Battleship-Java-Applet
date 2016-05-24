@@ -1,1 +1,1 @@
-# Battleship-Java-Applet
+This is a Java program thats creates a Battleship game field based on text file containing only 0s or 1s. Where ever there is 0 in the text file, there is a water picture taking its place in the Applet. Likewise, where ever there is 1 in the text file, there is a ship picture. Ready to Program was used as the compiler.
